@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilhanx29
+- 👋 Hi, I’m ilhan.
 - 👀 I’m interested in Crypto.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on ...
